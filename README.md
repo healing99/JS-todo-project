@@ -9,7 +9,7 @@ vanilla Javascript 를 활용한 간단한 todo 프로젝트
 - 배경화면은 랜덤으로 설정
 
 ### 캡쳐 화면:
-![캡처1](https://user-images.githubusercontent.com/49135797/107386953-b640b780-6b37-11eb-86ae-088246cf58e6.PNG)
+![image](https://user-images.githubusercontent.com/49135797/107387246-f99b2600-6b37-11eb-922a-9a5cf8edbbc9.png)
 ![캡처2](https://user-images.githubusercontent.com/49135797/107386960-b6d94e00-6b37-11eb-9996-7966fc1d9dc3.PNG)
 ![캡처3](https://user-images.githubusercontent.com/49135797/107386961-b771e480-6b37-11eb-9535-78ede2c45858.PNG)
 ![캡처4](https://user-images.githubusercontent.com/49135797/107386963-b771e480-6b37-11eb-8124-df3675d3bfa0.PNG)
