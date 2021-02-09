@@ -1,4 +1,13 @@
 # JS-todo-project
 
-## vanilla Javascript 를 활용한 간단한 todo 프로젝트
+### 프로젝트 설명:
+vanilla Javascript 를 활용한 간단한 todo 프로젝트
+
+### 주요 기능:
+- 오늘의 날짜와 시간 출력
+- todo를 입력하고 완료한 작업과 완료하지 않은 작업을 따로 확인할 수 있음
+- 배경화면은 랜덤으로 설정
+
+### 캡쳐 화면:
+
 
